@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N2L.Maria.UI", "..\..\Projects\N2L.Maria.UI\N2L.Maria.UI.csproj", "{45016CE6-C396-46AC-9403-855C8E59A57C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N2L.Maria.Lib", "..\..\Projects\N2L.Maria.Lib\N2L.Maria.Lib.csproj", "{B2960154-392F-443D-9FCA-5C154D98B401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Release|Win32.ActiveCfg = Release|Any CPU
+		{45016CE6-C396-46AC-9403-855C8E59A57C}.Release|x64.ActiveCfg = Release|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Release|ARM.ActiveCfg = Release|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Release|Win32.ActiveCfg = Release|Any CPU
+		{B2960154-392F-443D-9FCA-5C154D98B401}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
